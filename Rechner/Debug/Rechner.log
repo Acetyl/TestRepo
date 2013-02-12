@@ -1,0 +1,36 @@
+﻿Der Buildvorgang wurde am 12.02.2013 18:31:34 gestartet.
+     1>Projekt "H:\Programs\git\TestRepo\Rechner\Rechner.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt ..\test.c
+         test.c
+     1>h:\programs\git\testrepo\test.c(20): warning C4013: 'system' undefiniert; Annahme: extern mit Rückgabetyp int
+     1>h:\programs\git\testrepo\test.c(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290): Siehe Deklaration von 'scanf'
+     1>h:\programs\git\testrepo\test.c(72): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290): Siehe Deklaration von 'scanf'
+     1>h:\programs\git\testrepo\test.c(75): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290): Siehe Deklaration von 'scanf'
+     1>h:\programs\git\testrepo\test.c(85): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290): Siehe Deklaration von 'scanf'
+     1>h:\programs\git\testrepo\test.c(88): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290): Siehe Deklaration von 'scanf'
+     1>h:\programs\git\testrepo\test.c(99): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290): Siehe Deklaration von 'scanf'
+     1>h:\programs\git\testrepo\test.c(102): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290): Siehe Deklaration von 'scanf'
+     1>h:\programs\git\testrepo\test.c(113): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290): Siehe Deklaration von 'scanf'
+     1>h:\programs\git\testrepo\test.c(116): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290): Siehe Deklaration von 'scanf'
+     1>h:\programs\git\testrepo\test.c(79): warning C4716: 'add': Muss einen Wert zurückgeben
+     1>h:\programs\git\testrepo\test.c(107): warning C4716: 'div': Muss einen Wert zurückgeben
+     1>h:\programs\git\testrepo\test.c(121): warning C4716: 'mult': Muss einen Wert zurückgeben
+     1>h:\programs\git\testrepo\test.c(93): warning C4716: 'sub': Muss einen Wert zurückgeben
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\Programs\git\TestRepo\Rechner\Debug\Rechner.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\Programs\git\TestRepo\Rechner\Debug\Rechner.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\Programs\git\TestRepo\Rechner\Debug\Rechner.lib" /MACHINE:X86 Debug\test.obj
+         Rechner.vcxproj -> H:\Programs\git\TestRepo\Rechner\Debug\Rechner.exe
+     1>Die Erstellung des Projekts "H:\Programs\git\TestRepo\Rechner\Rechner.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:00.28
